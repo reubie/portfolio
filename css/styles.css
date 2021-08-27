@@ -115,13 +115,13 @@ a.active,a:hover{
 .card{
     border-bottom: 8px solid #f5ba89;
 }
-#social-media{
+#contact{
     background: #355C7D;
 }
 #project{
     background: white;
 }
-.media-link{
+.media-bond{
     padding: 1rem;
     max-width: 15rem;
     margin-left: 1rem;
