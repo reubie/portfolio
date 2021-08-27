@@ -111,3 +111,6 @@ a.active,a:hover{
     background: #355C7D;
     border-radius: 0.5rem;
 }
+.card{
+    border-bottom: 8px solid #f5ba89;
+}
