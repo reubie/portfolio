@@ -120,6 +120,9 @@ a.active,a:hover{
 #social-media{
     background: #355C7D;
 }
+#project{
+    background: white;
+}
 .media-link{
     padding: 1rem;
     max-width: 15rem;
