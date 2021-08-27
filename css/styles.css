@@ -121,11 +121,11 @@ a.active,a:hover{
 #project{
     background: white;
 }
-.media-bond{
+.media-link{
     padding: 1rem;
     max-width: 15rem;
     margin-left: 1rem;
-    border: 3px solid #f5ba89;
+    border: 3.5px solid #f5ba89;
     border-radius: 0.5rem;
 
 }
