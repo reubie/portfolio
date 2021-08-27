@@ -107,3 +107,7 @@ a.active,a:hover{
  .main-row h1{
      font-size: 5rem;
  }
+#about{
+    background: #355C7D;
+    border-radius: 0.5rem;
+}
