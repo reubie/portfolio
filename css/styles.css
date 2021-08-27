@@ -1,6 +1,4 @@
-html{
-    scroll-behavior: smooth;
-}
+
 *{
     padding: 0;
     margin: 0;
@@ -19,7 +17,7 @@ nav{
     height: 80px;
     width: 100%;
 }
-label.logo{
+label.name{
     color: whitesmoke;
     font-size: 35px;
     line-height: 80px;
@@ -46,7 +44,7 @@ a.active,a:hover{
     background: #355C7D;
     transition: .5s;
 }
-.checkbtn{
+.checkbutton{
     font-size: 30px;
     color: white;
     float: right;
@@ -59,7 +57,7 @@ a.active,a:hover{
     display: none;
 }
 @media (max-width: 952px){
-    label.logo{
+    label.name{
         font-size: 30px;
         padding-left: 50px;
     }
