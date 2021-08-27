@@ -104,4 +104,6 @@ a.active,a:hover{
     align-items: center;
     margin-left: 19rem;
 }
- 
+ .main-row h1{
+     font-size: 5rem;
+ }
