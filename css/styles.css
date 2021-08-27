@@ -94,3 +94,14 @@ a.active,a:hover{
         left: 0 ;
     }
 }
+.main-container{
+    min-height: 100vh;
+    padding-top: 5rem;
+}
+.main-row{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 19rem;
+}
+ 
