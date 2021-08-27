@@ -114,3 +114,14 @@ a.active,a:hover{
 .card{
     border-bottom: 8px solid #f5ba89;
 }
+#social-media{
+    background: #355C7D;
+}
+.media-link{
+    padding: 1rem;
+    max-width: 15rem;
+    margin-left: 1rem;
+    border: 3px solid #f5ba89;
+    border-radius: 0.5rem;
+
+}
