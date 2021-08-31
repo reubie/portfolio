@@ -14,6 +14,6 @@ In case you have any challenges with y code feel free to reach me on my email; r
 ### License
 *For licensing I would recommend the MIT license*
 ### Live link
-View live site.[here].(https://reubie.github.io/portfolio/).
+View live site.[here](https://reubie.github.io/portfolio/).
 
 Copyright (c) {2021} **Reuben Wachira Nguyo**
